@@ -16,4 +16,5 @@ I'm a Web Development student @ [Hive Helsinki](https://hive.fi) coding school a
 - Learning algorithms through programming AI bots @ [CodinGame Fall Challenge 2020](https://www.codingame.com/multiplayer/bot-programming/fall-challenge-2020)
 
 ### 🔍 I am looking for  
-- Junior Web Development job opportunities. I’m especially interested in marketing automation and e-commerce sectors.
+- Junior Web Development job opportunities, especially in the cross-roads of digital marketing and software development.
+
