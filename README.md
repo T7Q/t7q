@@ -12,8 +12,7 @@ I'm a Web Development student @ [Hive Helsinki](https://hive.fi) coding school a
 - Git, Docker
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm currently working on
-- Learning more about Redux, Node.js, Exress, Typescript @ [Full Stack Open 2020, University of Helsinki](https://fullstackopen.com/en/).
-- Learning algorithms through programming AI bots @ [CodinGame Fall Challenge 2020](https://www.codingame.com/multiplayer/bot-programming/fall-challenge-2020)
+- [Hypertube](https://github.com/DianaMukaliyeva/hypertube), a Netflix-like web app based on BitTorent protocol @  [Hive Helsinki](https://hive.fi) 
 
 ### 🔍 I am looking for  
 - Junior Web Development job opportunities, especially in the cross-roads of digital marketing and software development.
