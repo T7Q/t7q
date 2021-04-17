@@ -12,8 +12,4 @@ I'm a Web Development student @ [Hive Helsinki](https://hive.fi) coding school a
 - Git, Docker
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm currently working on
-- [Hypertube](https://github.com/DianaMukaliyeva/hypertube), a Netflix-like web app based on BitTorent protocol @  [Hive Helsinki](https://hive.fi) 
-
-### 🔍 I am looking for  
-- Junior Web Development job opportunities, especially in the cross-roads of digital marketing and software development.
-
+- TypeScript, ORM
