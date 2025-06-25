@@ -11,5 +11,3 @@ I'm a Web Development student @ [Hive Helsinki](https://hive.fi) coding school a
 - PostgreSQL, MySQL, MongoDB
 - Git, Docker
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm currently working on
-- TypeScript, ORM
